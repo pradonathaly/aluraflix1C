@@ -47,12 +47,12 @@ p {
 
 .categoria-videos img {
     opacity: 0.5;
-    height: 150px;
+    height: 200px;
 }
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 2px solid green;
+    border: 3px solid green;
 }
 
 .categoria h2 {
